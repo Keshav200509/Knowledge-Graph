@@ -2,3001 +2,3001 @@
     {
         "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Secretary of State",
         "ground_truth": "Chief of Protocol"
     },
     {
         "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Animated Series",
         "ground_truth": "Animorphs"
     },
     {
         "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "New York City",
         "ground_truth": "Greenwich Village, New York City"
     },
     {
         "question": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a South Korean boy group",
         "ground_truth": "YG Entertainment"
     },
     {
         "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Aladin",
         "ground_truth": "Eenasul Fateh"
     },
     {
         "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "0",
         "ground_truth": "3,677 seated"
     },
     {
         "question": "Who is older, Annie Morton or Terry Richardson?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Annie Morton",
         "ground_truth": "Terry Richardson"
     },
     {
         "question": "Are Local H and For Against both from the United States?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Fighting Tigers",
         "ground_truth": "Kansas Song"
     },
     {
         "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and T\u00e9a Leoni?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Nicolas Cage",
         "ground_truth": "David Weissman"
     },
     {
         "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2010",
         "ground_truth": "1999"
     },
     {
         "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a week",
         "ground_truth": "from 1986 to 2013"
     },
     {
         "question": "Brown State Fishing Lake is in a country that has a population of how many inhabitants ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "9,984"
     },
     {
         "question": "The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Conference of the United States",
         "ground_truth": "the North Atlantic Conference"
     },
     {
         "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "yes"
     },
     {
         "question": "Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1861 and 1868",
         "ground_truth": "1969 until 1974"
     },
     {
         "question": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Henry Roth",
         "ground_truth": "Robert Erskine Childers DSC"
     },
     {
         "question": "Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Fernando Alonso",
         "ground_truth": "Pedro Rodr\u00edguez"
     },
     {
         "question": "This singer of A Rather Blustery Day also voiced what hedgehog?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sailor",
         "ground_truth": "Sonic"
     },
     {
         "question": "Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Apple TV",
         "ground_truth": "keyboard function keys"
     },
     {
         "question": "Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Badly Drawn Boy",
         "ground_truth": "Badly Drawn Boy"
     },
     {
         "question": "What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a scottish",
         "ground_truth": "World's Best Goalkeeper"
     },
     {
         "question": "Who was the writer of These Boots Are Made for Walkin' and who died in 2007?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john s. w. s. w. s. w. s. w. s. w. s. w. s. w. s. w.",
         "ground_truth": "Barton Lee Hazlewood"
     },
     {
         "question": "The 2011\u201312 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1961",
         "ground_truth": "1838"
     },
     {
         "question": "Are both Dictyosperma, and Huernia described as a genus?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "John C. Kennedy",
         "ground_truth": "Henry J. Kaiser"
     },
     {
         "question": "What is the name for the adventure in \"Tunnels and Trolls\", a game designed by Ken St. Andre?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Trolls",
         "ground_truth": "Arena of Khazan"
     },
     {
         "question": "When was Poison's album \"Shut Up, Make Love\" released?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "June 27, 2017",
         "ground_truth": "2000"
     },
     {
         "question": "Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Canada",
         "ground_truth": "Fujioka, Gunma"
     },
     {
         "question": "Which  French ace pilot and adventurer fly L'Oiseau Blanc",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "L'Oiseau Blanc",
         "ground_truth": "Charles Eug\u00e8ne"
     },
     {
         "question": "Are Freakonomics and In the Realm of the Hackers both American documentaries?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "Which band, Letters to Cleo or Screaming Trees, had more members?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Letters to Cleo",
         "ground_truth": "Letters to Cleo"
     },
     {
         "question": "Alexander Kerensky was defeated and destroyed by the Bolsheviks in the course of a civil war that ended when ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Alexander Kerensky was defeated and destroyed by the Bolsheviks in the course of a civil war that ended when .",
         "ground_truth": "October 1922"
     },
     {
         "question": "Seven Brief Lessons on Physics was written by an Italian physicist that has worked in France since what year?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1896",
         "ground_truth": "2000"
     },
     {
         "question": "The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "World War II",
         "ground_truth": "World War II"
     },
     {
         "question": "Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "Ralph Hefferline was a psychology professor at a university that is located in what city?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "New York City",
         "ground_truth": "New York City"
     },
     {
         "question": "Which dog's ancestors include Gordon and Irish Setters: the Manchester Terrier or the Scotch Collie?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Scotch Collie",
         "ground_truth": "Scotch Collie"
     },
     {
         "question": "Where is the company that Sachin Warrier worked for as a software engineer headquartered? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "London",
         "ground_truth": "Mumbai"
     },
     {
         "question": "A Japanese manga series based on a 16 year old high school student Ichitaka Seto, is written and illustrated by someone born in what year?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1931",
         "ground_truth": "1962"
     },
     {
         "question": "The battle in which Giuseppe Arimondi lost his life secured what for Ethiopia?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a victory",
         "ground_truth": "sovereignty"
     },
     {
         "question": "Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Alfred B. Balk",
         "ground_truth": "Nelson Rockefeller"
     },
     {
         "question": "A medieval fortress in Dirleton, East Lothian, Scotland borders on the south side of what coastal area?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "scotland",
         "ground_truth": "Yellowcraig"
     },
     {
         "question": "Who is the writer of this song that was inspired by words on a tombstone and was the first track on the box set Back to Mono?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john scott",
         "ground_truth": "Phil Spector"
     },
     {
         "question": "What type of forum did a former Soviet statesman initiate?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Soviet Union",
         "ground_truth": "Organizations could come together to address global issues"
     },
     {
         "question": "Are Ferocactus and Silene both types of plant?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "Which British first-generation jet-powered medium bomber was used in the South West Pacific theatre of World War II?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a british first-generation jet-powered medium bomber",
         "ground_truth": "English Electric Canberra"
     },
     {
         "question": "Which year and which conference was the 14th season for this conference as part of the NCAA Division that the Colorado Buffaloes played in with a record of 2-6 in conference play?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2014",
         "ground_truth": "2009 Big 12 Conference"
     },
     {
         "question": "In 1991 Euromarch\u00e9 was bought by a chain that operated how any hypermarkets at the end of 2016?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a chain that operated a hypermarket",
         "ground_truth": "1,462"
     },
     {
         "question": "What race track in the midwest hosts a 500 mile race eavery May?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a race track in the midwest",
         "ground_truth": "Indianapolis Motor Speedway"
     },
     {
         "question": "In what city did the \"Prince of tenors\" star in a film based on an opera by Giacomo Puccini?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Santo Domingo",
         "ground_truth": "Rome"
     },
     {
         "question": "Ellie Goulding worked with what other writers on her third studio album, Delirium?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a saxophonist",
         "ground_truth": "Max Martin, Savan Kotecha and Ilya Salmanzadeh"
     },
     {
         "question": "Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "London",
         "ground_truth": "Marion, South Australia"
     },
     {
         "question": "D1NZ is a series based on what oversteering technique?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sanding technique",
         "ground_truth": "Drifting"
     },
     {
         "question": "who is younger Keith Bostic or Jerry Glanville ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Jerry Glanville",
         "ground_truth": "Keith Bostic"
     },
     {
         "question": "According to the 2001 census, what was the population of the city in which Kirton End is located?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "69,017",
         "ground_truth": "35,124"
     },
     {
         "question": "Are both Cypress and Ajuga genera?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "What distinction is held by the former NBA player who was a member of the Charlotte Hornets during their 1992-93 season and was head coach for the WNBA team Charlotte Sting?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a member of the Charlotte Hornets",
         "ground_truth": "shortest player ever to play in the National Basketball Association"
     },
     {
         "question": "What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "antonio sagan",
         "ground_truth": "Ronald Shusett"
     },
     {
         "question": "Who was born earlier, Emma Bull or Virginia Woolf?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Virginia Woolf",
         "ground_truth": "Adeline Virginia Woolf"
     },
     {
         "question": "What was the Roud Folk Song Index of the nursery rhyme inspiring What Are Little Girls Made Of?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "821"
     },
     {
         "question": "Scott Parkin has been a vocal critic of Exxonmobil and another corporation that has operations in how many countries ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "more than 70 countries"
     },
     {
         "question": "What WB supernatrual drama series was Jawbreaker star Rose Mcgowan best known for being in?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Simpsons",
         "ground_truth": "Charmed"
     },
     {
         "question": "Vince Phillips held a junior welterweight title by an organization recognized by what larger Hall of Fame?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a federation of professional boxers",
         "ground_truth": "International Boxing Hall of Fame"
     },
     {
         "question": "What is the name of the singer who's song was released as the lead single from the album \"Confessions\", and that had popular song stuck behind for eight consecutive weeks?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a",
         "ground_truth": "Usher"
     },
     {
         "question": "who is the younger brother of The episode guest stars of The Hard Easy ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Josh",
         "ground_truth": "Bill Murray"
     },
     {
         "question": "The 2017\u201318 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as what for sponsorship reasons?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a league cup",
         "ground_truth": "Carabao Cup"
     },
     {
         "question": "Which of Tara Strong major voice role in animated series is an American animated television series based on the DC Comics fictional superhero team, the \"Teen Titans\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a snarl",
         "ground_truth": "Teen Titans Go!"
     },
     {
         "question": "What is the inhabitant of the city where  122nd SS-Standarte was formed in2014",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "122nd SS-Standarte",
         "ground_truth": "276,170 inhabitants"
     },
     {
         "question": "What color clothing do people of the Netherlands wear during Oranjegekte or to celebrate the national holiday Koningsdag? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a black",
         "ground_truth": "orange"
     },
     {
         "question": "What was the name of the 1996 loose adaptation of William Shakespeare's \"Romeo & Juliet\" written by James Gunn?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Romeo & Juliet",
         "ground_truth": "Tromeo and Juliet"
     },
     {
         "question": "Robert Suettinger was the national intelligence officer under which former Governor of Arkansas?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john w. bush",
         "ground_truth": "William Jefferson Clinton"
     },
     {
         "question": "What American professional Hawaiian surfer born 18 October 1992 won the Rip Curl Pro Portugal?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a",
         "ground_truth": "John John Florence"
     },
     {
         "question": "What is the middle name of the actress who plays Bobbi Bacha in Suburban Madness?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Yuri",
         "ground_truth": "Ann"
     },
     {
         "question": "Alvaro Mexia had a diplomatic mission with which tribe of indigenous people?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a tribe of indigenous people",
         "ground_truth": "Apalachees"
     },
     {
         "question": "What nationality were social anthropologists Alfred Gell and Edmund Leach?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "American",
         "ground_truth": "British"
     },
     {
         "question": "In which year was the King who made the 1925 Birthday Honours born?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1927",
         "ground_truth": "1865"
     },
     {
         "question": "What is the county seat of the county where East Lempster, New Hampshire is located?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a town",
         "ground_truth": "Newport"
     },
     {
         "question": "The Album Against the Wind was the 11th Album of a Rock singer Robert C Seger born may 6 1945. What was the Rock singers stage name ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Album Against the Wind was the 11th Album of a Rock singer Robert C Seger born may 6 1945.",
         "ground_truth": "Bob Seger"
     },
     {
         "question": "Rostker v. Goldberg held that the practice of what way of filling armed forces vacancies was consitutional?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a restraining order",
         "ground_truth": "Conscription"
     },
     {
         "question": "Handi-Snacks are a snack food product line sold by what American multinational confectionery, food, and beverage company that is based in Illinois?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Coca-Cola",
         "ground_truth": "Mondelez International, Inc."
     },
     {
         "question": "What was the name of a woman from the book titled \"Their Lives: The Women Targeted by the Clinton Machine \" and was also a former white house intern?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a white house intern",
         "ground_truth": "Monica Lewinsky"
     },
     {
         "question": "When was the American lawyer, lobbyist and political consultant who was a senior member of the presidential campaign of Donald Trump born?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "November 13, 1891",
         "ground_truth": "April 1, 1949"
     },
     {
         "question": "In what year was the novel that Louren\u00e7o Mutarelli based \"Nina\" on based first published?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1897",
         "ground_truth": "1866"
     },
     {
         "question": "Where are Teide National Park and Garajonay National Park located?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Garajonay National Park",
         "ground_truth": "Canary Islands, Spain"
     },
     {
         "question": "How many copies of Roald Dahl's variation on a popular anecdote sold?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2",
         "ground_truth": "250 million"
     },
     {
         "question": "What occupation do Chris Menges and Aram Avakian share?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "film director",
         "ground_truth": "director"
     },
     {
         "question": "Andrew Jaspan was the co-founder of what not-for-profit media outlet?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The New York Times",
         "ground_truth": "The Conversation"
     },
     {
         "question": "Which American film director hosted the 18th Independent Spirit Awards in 2002?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john s. w. s. w. s. w. s. w. s. w. s. w. s. w. s. w.",
         "ground_truth": "John Waters"
     },
     {
         "question": "Where does the hotel and casino located in which Bill Cosby's third album was recorded?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Casino",
         "ground_truth": "Las Vegas Strip in Paradise"
     },
     {
         "question": "Do the drinks Gibson and Zurracapote both contain gin?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "no"
     },
     {
         "question": "In what month is the annual documentary film festival, that is presented by the fortnightly published British journal of literary essays, held? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "February",
         "ground_truth": "March and April"
     },
     {
         "question": "Tysons Galleria is located in what county?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Tysons Galleria",
         "ground_truth": "Fairfax County"
     },
     {
         "question": "Bordan Tkachuk was the CEO of a company that provides what sort of products?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "ad-supported",
         "ground_truth": "IT products and services"
     },
     {
         "question": "Which filmmaker was known for animation, Lev Yilmaz or Pamela B. Green?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Pamela B. Green",
         "ground_truth": "Levni Yilmaz"
     },
     {
         "question": "In which city is the ambassador of the Rabat-Sal\u00e9-K\u00e9nitra administrative region to China based?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Beijing",
         "ground_truth": "Beijing"
     },
     {
         "question": "Are Yingkou and Fuding the same level of city?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "Where did the descendants of the group of black Indians associated with the Seminole people settle?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "in the Indian settlements",
         "ground_truth": "Coahuila, Mexico"
     },
     {
         "question": "David Huntsinger has worked with this gospel singer born in the month of July?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a.",
         "ground_truth": "Larnelle Harris"
     },
     {
         "question": "What year was the brother of this first round draft pick by the Washington Redskins drafted?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2017",
         "ground_truth": "2003"
     },
     {
         "question": "Where is the stadium at which 1964 Georgia Tech Yellow Jackets football team played their home game located? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a stadium",
         "ground_truth": "North Avenue at Techwood Drive"
     },
     {
         "question": "Since 2 June 2017, The Leader of Fine Gael had been held by which Irish Fine Gael politician who has served as Taoiseach and Minister for Defence?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john mccartney",
         "ground_truth": "Leo Varadkar"
     },
     {
         "question": "Which American film actor and dancer starred in the 1945 film Johnny Angel?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "John C. Kennedy",
         "ground_truth": "George Raft"
     },
     {
         "question": "hree Men on a Horse is a play by a playwright born in which year ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1893",
         "ground_truth": "1887"
     },
     {
         "question": "What type of activity does Owner earnings and Warren Buffett have in common?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Business",
         "ground_truth": "business"
     },
     {
         "question": "When was the  former Indian cricketer who made his ODI debuts during the 2000 ICC KnockOut Trophy born? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "June 28, 1948",
         "ground_truth": "7 October 1978"
     },
     {
         "question": "Which airplane was this Major test-flying after whom the base, that 514th Flight Test Squadron is stated at, is named?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Boeing 747",
         "ground_truth": "B-17 Flying Fortress bomber"
     },
     {
         "question": "Based on a True Story... is an album by which country music star, with the single My Eyes?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "annie scott",
         "ground_truth": "Blake Shelton"
     },
     {
         "question": "Over how many centuries were the \"dwelling place of the dead\" built?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2",
         "ground_truth": "three centuries"
     },
     {
         "question": "When was the British author who wrote the novel on which \"Here We Go Round the Mulberry Bush\" was based born? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "June 28, 1896",
         "ground_truth": "7 January 1936"
     },
     {
         "question": "Who died first, George Archainbaud or Ralph Murphy?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Ralph Murphy",
         "ground_truth": "George Archainbaud"
     },
     {
         "question": "Which component of shellite has the formula (ON)CHOH?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "CHOH",
         "ground_truth": "picric acid"
     },
     {
         "question": "The Argentine PGA Championship record holder has won how many tournaments worldwide?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "0",
         "ground_truth": "230"
     },
     {
         "question": "Suicide's 1977 released album features a song based on what brand's comic character?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sailor",
         "ground_truth": "Marvel"
     },
     {
         "question": "What other political position did the person who introduced the DISCLOSE Act hold?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Conservative",
         "ground_truth": "United States Senator"
     },
     {
         "question": "Were the bands Skin Yard and Ostava from the U.S.?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "Are Daryl Hall and Gerry Marsden both musicians?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "What major truck road is located in Backford Cross?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a road",
         "ground_truth": "The A41"
     },
     {
         "question": "In which role did Caroline Carver played in a 1999 Hallmark Entertainment made-for-TV fantasy movie?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sexy sexy sexy sexy sexy sexy sexy sexy sexy sexy sexy sexy",
         "ground_truth": "Princess Jessica"
     },
     {
         "question": "What's the name of the fantasy film starring Sarah Bolger, featuring a New England family who discover magical creatures around their estate?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Legend of the Darkness",
         "ground_truth": "The Spiderwick Chronicles"
     },
     {
         "question": "Maxeda has been owned since 2004 by which American multinational equity firm?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "scottsdale",
         "ground_truth": "KKR & Co"
     },
     {
         "question": "The youngest daughter of Lady Mary-Gaye Curzon stars with Douglas Smith and Lucien Laviscount  in what 2017 film?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Last of Us",
         "ground_truth": "The Bye Bye Man"
     },
     {
         "question": "Mummulgum is a stop on the Bruxner Highway before reaching the town on the banks of which river?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Bruxner",
         "ground_truth": "Richmond"
     },
     {
         "question": "Which American audio engineer and clandestine chemist, who was a key figure in the San Francisco Bay Area hippie movement during the 1960s recorded the album \"Old and in the Way?\"",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john s. scott",
         "ground_truth": "Owsley Stanley"
     },
     {
         "question": "When was the palace founded at which Columba de Dunbar died in 1435?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1435",
         "ground_truth": "the late 12th Century"
     },
     {
         "question": "Where is the Bubblegum Alley, that is similar to Gum Wall, located in California?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "California",
         "ground_truth": "San Luis Obispo, California"
     },
     {
         "question": "At what venue was the January 2, 2012 game featured the University of Louisville team?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a stadium",
         "ground_truth": "Mercedes-Benz Superdome"
     },
     {
         "question": "Which film was Oscar nominated, LaLee's Kin: The Legacy of Cotton or Gimme Shelter, the 1970 Rolling Stones documentary?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "LaLee's Kin: The Legacy of Cotton",
         "ground_truth": "LaLee's Kin: The Legacy of Cotton"
     },
     {
         "question": "Which board game was published most recently, Pirate's Cove or Catan?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Catan",
         "ground_truth": "Pirate's Cove"
     },
     {
         "question": "Alice David is the voice of Lara Croft in a video game developed by which company ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Walt Disney Company",
         "ground_truth": "Crystal Dynamics"
     },
     {
         "question": "Which Eminem album included vocals from a singer who had an album titled \"Unapologetic\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Unapologetic",
         "ground_truth": "\"The Marshall Mathers LP 2\""
     },
     {
         "question": "This American crime film set in South Los Angeles was written and directed by the same director and writer of screenwriter of \"Street Kings\", \"End of Watch\", \"Sabotage\", \"Fury\" and what other film? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "\"Sabotage\"",
         "ground_truth": "Suicide Squad"
     },
     {
         "question": "SuperMansion starred the actress who had a recurring role as whom on Workaholics?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a recurring role",
         "ground_truth": "Jillian Belk"
     },
     {
         "question": "The 1974 Texas Tech Raiders football team represented what public research university in Lubbock, Texas?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "University of Texas at Austin",
         "ground_truth": "Texas Tech University"
     },
     {
         "question": "During Siege of Bharatpur, which Commander-in-Chief of Ireland and Commander-in-Chief of India contributed to the storming of the castle?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Commander-in-Chief of India",
         "ground_truth": "Lord Combermere"
     },
     {
         "question": "For what type of work is the production company for The Year Without a Santa Claus best known?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "film",
         "ground_truth": "seasonal television specials, particularly its work in stop motion animation"
     },
     {
         "question": "What year was the film that starred the composer for \"The Naked Brothers Band\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2002",
         "ground_truth": "2014"
     },
     {
         "question": "The author of Sexual Politics attended which British University?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "st john s john s john s john s john s john s john s john s john s john s john s john ",
         "ground_truth": "Oxford"
     },
     {
         "question": "Who had the best singles ranking, Roberta Vinci or Jorge Lozano?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Jorge Lozano",
         "ground_truth": "Roberta Vinci"
     },
     {
         "question": "Both Truth in Science and Discovery embrace what campaign?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Discovery",
         "ground_truth": "\"Teach the Controversy\" campaign"
     },
     {
         "question": "Josey Scott and Ian Watkins were both promising musicians. Which of these talented men was incarcerated, impacting his career with a rock band?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Ian Watkins",
         "ground_truth": "Lostprophets disbanded in 2013 after Watkins was charged with sexual offences in late 2012."
     },
     {
         "question": "The movies Queen of Blood and Battle Beyond the Sun both contained scenes from what 1959 Soviet feature?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Battle Beyond the Sun",
         "ground_truth": "Nebo Zovyot"
     },
     {
         "question": "Who was born first, Erika Jayne or Marco Da Silva",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Erika Jayne",
         "ground_truth": "Erika Jayne"
     },
     {
         "question": "When did the English local newspaper, featuring the sculpture and war memorial in the Forbury gardens, change names?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a year after the publication of the article",
         "ground_truth": "2009"
     },
     {
         "question": "What is the name of the Isles who were led by Aonghus M\u00f3r and covered a total land area of over 8300 km2?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "snr",
         "ground_truth": "Kingdom of the Isles"
     },
     {
         "question": "Who is Bruce Spizer an expert on, known as the most influential act of the rock era?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Bruce Spizer",
         "ground_truth": "The Beatles"
     },
     {
         "question": "Which song was behind the third single on the album  \"A Lot About Livin' (And a Little 'bout Love)\" for two weeks on the country charts?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a little 'bout love",
         "ground_truth": "\"We'll Burn That Bridge\""
     },
     {
         "question": "What occupation was shared by David Yates and Pietro Germi?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "writer",
         "ground_truth": "director"
     },
     {
         "question": "Marcus Wayne Garland spent nine seasons with an American professional baseball team that is based in Baltimore, Maryland, and was one of the AMerican League's original eight charter franchises when the league was established in what year?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1891",
         "ground_truth": "1901"
     },
     {
         "question": "The lamp used in many lighthouses is similiar to this type of lamp patented in 1780 by Aim\u00e9 Argand?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "Argand lamp"
     },
     {
         "question": "The songs from the sountrack to \"When Harry Met Sally\" are performed by a singer that has had how many top 20 US albums?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "3",
         "ground_truth": "seven"
     },
     {
         "question": "Are Broughtonia and Laeliocattleya both orchids?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "Where was the world cup hosted that Algeria qualified for the first time into the round of 16?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Qatar",
         "ground_truth": "Brazil"
     },
     {
         "question": "Which was fought earlier in our nation's history, the Seven Days Battles or the Battle of Manila?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "the Seven Days Battles",
         "ground_truth": "The Seven Days Battles"
     },
     {
         "question": "What retailer in ABQ Uptown is headquarted in Poole, Dorset, United Kingdom?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "ABQ Uptown",
         "ground_truth": "Lush Ltd."
     },
     {
         "question": "What football club plays in the area between the old tool gates: Brook Bar and Trafford bar?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Brook Bar",
         "ground_truth": "Manchester United"
     },
     {
         "question": "The song \"Chim Chim Cher-ee\" can be heard  in the \"Mary Poppins\" scene of a Disney ride that debuted in what year?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2010",
         "ground_truth": "1989"
     },
     {
         "question": "Who held the record for the longest service in the Australian Parliament for a woman, and was surpassed by  a former Australian politician who was the 29th Speaker of the House of Representatives?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a former Australian politician",
         "ground_truth": "Kathryn Jean Martin"
     },
     {
         "question": "Which man who presented the Australia 2022 FIFA World Cup bid was born on October 22, 1930?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john s. w. s. w. s. w. s. w. s. w. s. w. s. w. s. w.",
         "ground_truth": "Frank Lowy"
     },
     {
         "question": "What major city is the Faith Lutheran Middle School and High School located by?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Boston",
         "ground_truth": "Las Vegas"
     },
     {
         "question": "What British singer-songwriter hosted the 16th Annual Young Hollywood Awards?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "alan scott",
         "ground_truth": "Kelly Lee Osbourne"
     },
     {
         "question": "Who did the Star and Dagger bass player marry?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sailor",
         "ground_truth": "Sean Yseult."
     },
     {
         "question": "In 2017, what was 3/4th of the organization that also has a Center for Veterinary Medicine as well as part of the U.S. Department of Health and Human Services, spent on?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "veterinary medicine",
         "ground_truth": "Prescription Drug User Fee Act"
     },
     {
         "question": "Which came out first, Dinosaur or McFarland, USA",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Dinosaur",
         "ground_truth": "Dinosaur"
     },
     {
         "question": "Both Bishop Carroll Catholic High School and Kapaun Mt. Carmel Catholic High School are located in which city in Kansas?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "kansas",
         "ground_truth": "Wichita"
     },
     {
         "question": "What was the 58th quadrennial American presidential election held after the 2016 Michigan Democratic primary?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "58th quadrennial American presidential election",
         "ground_truth": "United States presidential election of 2016"
     },
     {
         "question": "This Celtic ruler who was born in AD 43 ruled southeastern Britain prior to conquest by which empire?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Celtic",
         "ground_truth": "Roman"
     },
     {
         "question": "What is the name of the detective novelist parent of the author of '\"Q\" Is for Quarry'?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a.",
         "ground_truth": "C. W. Grafton"
     },
     {
         "question": "What is the birthplace of the Senator who represents the first of 62 districts in the State Senate?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "New York City",
         "ground_truth": "Brooklyn, New York"
     },
     {
         "question": "The Memphis Hustle are based in a suburb of a city with a population of what in 2010?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "69,017",
         "ground_truth": "48,982"
     },
     {
         "question": "Which songwriting duo composed music for \"La La Land\", and created lyrics for \"A Christmas Story: The Musical\"? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Beatles",
         "ground_truth": "Pasek & Paul"
     },
     {
         "question": "Which of the city at the south of Shelly Beach, New South Wales is a local government area in the Hunter region of New South Wales, Australia?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Shelly Beach",
         "ground_truth": "City of Newcastle"
     },
     {
         "question": "Are Bamboo Ma\u00f1alac and Danny Jones both musicians?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "Works by Hanna Leena Kristiina Varis are part of a collection in a museum that houses approximately 65,000 what?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a museum",
         "ground_truth": "drawings"
     },
     {
         "question": "When was the Western Germanic language spoken from which the small settlement situated on the river Leda opposite Leer derives its name?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a century ago",
         "ground_truth": "between the 8th and 16th centuries"
     },
     {
         "question": "Born on 6 March 1937, this man was also a citizen of the United Kingdom.",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "Alistair Grant"
     },
     {
         "question": "What country does Hatton Hill and Hatton Castle, Angus have in common?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "England",
         "ground_truth": "Scotland"
     },
     {
         "question": "What podcast was the cheif executive officer of Nerdist Industries a guest on?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Nerdist Industries",
         "ground_truth": "Comedy Film Nerds"
     },
     {
         "question": "Randall Cunningham II was a multi-sport athlete at the high school located in what Nevada city?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Las Vegas",
         "ground_truth": "Summerlin"
     },
     {
         "question": "Which English musician is known for both the songs \"See Yourself\" and \"Withing You Without You\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john scott",
         "ground_truth": "George Harrison"
     },
     {
         "question": "Which professional ice hockey position does the Captain of the National Hockey League All-Star Game \"Away Team\" play?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "winger",
         "ground_truth": "Canadian professional ice hockey centre"
     },
     {
         "question": "What year did the series on CBS, starring the actor who known for his role in \"Rebel Without a Cause,\" air?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2004",
         "ground_truth": "1952"
     },
     {
         "question": "What season was the character introduced that becomes the main antagonist in the  following season, from the animated television series created by Bryan Konietzko and Michael Dante DiMartino as a sequel to \"\", which aired from 2005 to 2008? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "season 1",
         "ground_truth": "third"
     },
     {
         "question": "Who were the directors of the 2009 American science fiction film starring the actor who played Dexter Morgan in the Showtime TV Network series \"Dexter\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sailor",
         "ground_truth": "Mark Neveldine and Brian Taylor"
     },
     {
         "question": "Which travel parody series featured American actor, comedian, and radio host best known as the host of \"The Joe Schmo Show\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Joe Schmo Show",
         "ground_truth": "Hidden America with Jonah Ray"
     },
     {
         "question": "Do The Importance of Being Icelandic and The Five Obstructions belong to different film genres ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "no"
     },
     {
         "question": "Tefik Selim Mborja was a part of a party that held power in Albania until what year? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1992",
         "ground_truth": "1943"
     },
     {
         "question": "Joe Walker played for which team that ends their regular season with the Civil War rivalry game?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Chicago Bears",
         "ground_truth": "Oregon Ducks football"
     },
     {
         "question": "What station broadcast the episode \"Marry Me a Little, Marry Me a Little More\" , of the series created by Max Mutchnick and David Kohan?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "CBS",
         "ground_truth": "National Broadcasting Company"
     },
     {
         "question": "Georges-Henri Bousquet translated the work of a historian who is of what heritage?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "English",
         "ground_truth": "North African Arab"
     },
     {
         "question": "In which city are the headquarters of the American research and scientific development company where Ravi Sethi worked as computer scientist located?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "New York City",
         "ground_truth": "Murray Hill"
     },
     {
         "question": "What is the full name of the viral respiratory disease in which Yi Guan's research helped to prevent the outbreak of?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "viral respiratory disease",
         "ground_truth": "severe acute respiratory syndrome"
     },
     {
         "question": "Which Kentucky Writers Hall of Fame author has had works published by Dim Gray Bar Press?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john w. s. s. s. s. s. s. s. s. s. s. s. s. s. s. s.",
         "ground_truth": "Wendell Berry"
     },
     {
         "question": "What director worked with Vikram Bhatt on a film starring actors Rajneesh Duggal and Adah Sharma?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Rajneesh Duggal",
         "ground_truth": "Tinu Suresh Desai"
     },
     {
         "question": " Robert Smith founded the multinational company headquartered in what city?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "New York City",
         "ground_truth": "Golden Valley, Minnesota,"
     },
     {
         "question": "What amount was the settlement that the character from the Son of al Quada got in 2017?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "$500,000",
         "ground_truth": "$10.5 million"
     },
     {
         "question": "Considered the strongest recorded tropical cyclone, which cyclone had a film made about it in 2007?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "cyclone iii",
         "ground_truth": "1999 Odisha cyclone"
     },
     {
         "question": "The 2000 British film Snatch was later adapted into a television series for what streaming service?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Netflix",
         "ground_truth": "Crackle"
     },
     {
         "question": "Chris Williams last played for which football club from the National League North?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "st johnson",
         "ground_truth": "Salford City Football Club"
     },
     {
         "question": "Who designed the hotel that held the IFBB professional bodybuilding competition in September 1991?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a scott scott",
         "ground_truth": "architect Michael Graves"
     },
     {
         "question": "At the 71st Golden Globe Awards for television in 2013, what achievement did Breaking Bad, police sitcom Brooklyn Nine-Nine and American Hustle attain?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a 71st Golden Globe Award",
         "ground_truth": "multiple awards"
     },
     {
         "question": "Which actor does American Beauty and American Beauty have in common?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a former actor",
         "ground_truth": "Kevin Spacey"
     },
     {
         "question": "Onika Tanya Maraj is a judge on a television show hosted by whom? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Onika Tanya Maraj",
         "ground_truth": "Ryan Seacrest"
     },
     {
         "question": "Are Hot Rod and The Memory of Our People both magazines?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "Who was Chamberlain and Colonel of the military staff of The Merrie Monarch?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Colonel of the military staff of The Merrie Monarch",
         "ground_truth": "Colonel Charles Hastings Judd"
     },
     {
         "question": "Who has written more than 300 papers, Semyon Aranovich Gershgorin or Pavel Alexandrov?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Pavel Alexandrov",
         "ground_truth": "Pavel Sergeyevich Alexandrov"
     },
     {
         "question": "Which post DC Extended Universe actress will also play a role in what is intended to be the fifth installment of the DC Extended Universe?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a",
         "ground_truth": "Gal Gadot"
     },
     {
         "question": "Who was the captain of the only battleship to provide gunfire support during the Vietnam War?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a",
         "ground_truth": "Rear Adm. J. Edward Snyder"
     },
     {
         "question": "The Polar Bears featuring the voice of Armie Hammer, is also the same voice actor for which character in Cars 3?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Armie Hammer",
         "ground_truth": "Jackson Storm"
     },
     {
         "question": "Which tower is taller, 712 Fifth Avenue or Manhattan Life Insurance Building?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Manhattan Life Insurance Building",
         "ground_truth": "712 5th Avenue"
     },
     {
         "question": "Is the Pakistan fast bowler who joined the Kent County Cricket Club in June, 2011 a left-hand or right-hand batsmans?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "left-hand",
         "ground_truth": "right-hand"
     },
     {
         "question": "Who was born first, Arthur Conan Doyle or Penelope Lively?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Arthur Conan Doyle",
         "ground_truth": "Arthur Ignatius Conan Doyle"
     },
     {
         "question": "The Tennessee Volunteers football team plays as a member for a conference in what city?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Jacksonville",
         "ground_truth": "Birmingham, Alabama"
     },
     {
         "question": "Ernest Foot was the best friend of the fighter pilot who had how many victories?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "3",
         "ground_truth": "44"
     },
     {
         "question": "From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Farrukhzad Khosrau V",
         "ground_truth": "the Parthian Empire"
     },
     {
         "question": "Which suburb is a soap opera featuring a character named Beverly Marshall set in?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "st. louis",
         "ground_truth": "Erinsborough"
     },
     {
         "question": "Which country did the Falkland Islands beat in the 2010 Commonwealth games that has eleven administrative divisions?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Australia",
         "ground_truth": "Samoa"
     },
     {
         "question": "Which Netflix series \"Unbreakable\" character is Elizabeth Claire Kemper known for playing?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Unbreakable",
         "ground_truth": "Kimberly Couger \"Kimmy\" Schmidt"
     },
     {
         "question": "Which television series featured an actor who also performed in \"The Young Ones\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Young Ones",
         "ground_truth": "\"The Comic Strip Presents...\""
     },
     {
         "question": "Are both Dafeng District and Dazhou located in the same province?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "In what century did this Native warrior and chief, whose brother Tenskwatawa led the Tippecanoe order of battle, become the primary leader of a large, multi tribal confederacy?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "17th",
         "ground_truth": "nineteenth"
     },
     {
         "question": "What film was written and directed by Joby Harold with music written by Samuel Sim?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Last Man Standing",
         "ground_truth": "Awake"
     },
     {
         "question": "What is the name of the ethnic group who settled in Canada in the 17th century that participated in a conflict with Irish Catholic immigrants in the Shiners' War?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Irish Catholic",
         "ground_truth": "French Canadians"
     },
     {
         "question": "The author of The Thing of It Is... is what Nationality?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "American",
         "ground_truth": "American"
     },
     {
         "question": "How long is the bridge in the \u00d6resund Region that connect Copenhagen, Denmark and Malmo, Sweden?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a mile",
         "ground_truth": "8 km"
     },
     {
         "question": "Martin Patterson \"Pat\" Hingle was a close friend of an actor who achieved success in what Western TV series? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Last Man Standing",
         "ground_truth": "Rawhide"
     },
     {
         "question": "Is the Marsilea or the Brabejum the genus of more individual species of plants?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Marsilea",
         "ground_truth": "Marsilea"
     },
     {
         "question": "What building is opposite the ceremonial meeting place of the Accession Council in the United Kingdom?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a building",
         "ground_truth": "Mark Masons' Hall"
     },
     {
         "question": "What material did a hairdresser from Yorkshire, England invent that was named by his granddaughter?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a hairdresser",
         "ground_truth": "Starlite"
     },
     {
         "question": "One Raffles Place is one of the tallest skyscrapers in the city of Singapore and tallest in the wolrd outside North America until it was succeeded by a Building in city?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "Hong Kong"
     },
     {
         "question": "Which case came first, Craig v. Boren or United States v. Paramount Pictures, Inc.?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "United States v. Paramount Pictures, Inc.",
         "ground_truth": "Craig v. Boren"
     },
     {
         "question": "What is the nickname of the city where Darling's Waterfront Pavilion is located?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Waterfront Pavilion",
         "ground_truth": "\"Queen City\""
     },
     {
         "question": "The Kansas City Wizards have had three home venues in Kansas City in their time.  Which was their first?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Kansas City Wizards have had three home venues in Kansas City in their time.",
         "ground_truth": "Arrowhead Stadium"
     },
     {
         "question": "Henry Hall is known for fighting in the Revolutionary War, and for being the first to successfully cultivate this food found in what type of bogs?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "bogs",
         "ground_truth": "acidic"
     },
     {
         "question": "A scam involving a male calling small town fast-food restaurants and pretending to be a police officer to have them strip search employees was turned into a movie of what name?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a robbery",
         "ground_truth": "Compliance"
     },
     {
         "question": "What airport serviced by American Airlines Shuttle, is also the largest airport in the New England region and 17th busiest in the U.S?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "United States Air Force Base",
         "ground_truth": "Logan International Airport"
     },
     {
         "question": "Which genus has more species, Xanthoceras or Ehretia?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Ehretia",
         "ground_truth": "Ehretia"
     },
     {
         "question": "What arcade game is named after the only player in major league history to have a 0.300 batting average for 7 consecutive seasons?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a game called a sandbox",
         "ground_truth": "a pinball machine"
     },
     {
         "question": "What american actress/singer born in 1956 recorded the song Something there for beauty and the beast?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "alan scott",
         "ground_truth": "Donna Paige Helmintoller"
     },
     {
         "question": "Which professional baseball player and National 1993 Baseball Hall of Fame inductee is featured in the Greatest Sports Legends anthology? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Brian O'Hara",
         "ground_truth": "Reginald Martinez \"Reggie\" Jackson"
     },
     {
         "question": "Salisbury Woodland Gardens links a zoo with a park designed and built under the watchful eye of who?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a zoo",
         "ground_truth": "Thomas Mawson"
     },
     {
         "question": "What class of instrument does Apatim Majumdar play?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Apatim Majumdar",
         "ground_truth": "strings"
     },
     {
         "question": "Jamie Harris is best known for his role as The Hook-Handed Man in a movie directed by who ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "John C. Kennedy",
         "ground_truth": "Brad Silberling"
     },
     {
         "question": "How many laps did Harry Prowell run during the 10,000 metres race at the 1967 Pan American Games?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "0",
         "ground_truth": "25 laps"
     },
     {
         "question": "Are  Chrysalis and Look both women's magazines?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "Which author has won more Pulitzer Prizes, Thomas Friedman or Henri Bergson?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Thomas Friedman",
         "ground_truth": "Thomas Loren Friedman"
     },
     {
         "question": "Yoann Lemoine, a French video director, has created music videos for Lana Del Rey, Katy Perry, and an orchestral country pop ballad by which top pop artist?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Katy Perry",
         "ground_truth": "Taylor Swift"
     },
     {
         "question": "In what city can a person find both the Nusretiye Clock Tower and the Eski Imaret Mosque be found?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "New York City",
         "ground_truth": "Istanbul, Turkey"
     },
     {
         "question": "What is Opry Mills in Nashville, Tennessee?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Opry Mills",
         "ground_truth": "super-regional shopping mall"
     },
     {
         "question": "Spaceware Sky Division II is manufactured by this subsidiary, which is one of twelve subdivisions of Inner Mongolia, China?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Spaceware Sky Division II",
         "ground_truth": "Ordos City"
     },
     {
         "question": "Which director had the longest career, Alain Resnais or Scott Sidney?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Scott Sidney",
         "ground_truth": "Scott Sidney"
     },
     {
         "question": "in 1999, Spirit Halloween LLC was purchased by a mall retailer that has how many stores in the United States and Canada ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "over 600 stores"
     },
     {
         "question": "James Fieser received his B.A. from what liberal arts work college that was founded in 1855?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "University of Southern California",
         "ground_truth": "Berea College"
     },
     {
         "question": "What year did Roy Rogers and his third wife star in a film directed by Frank McDonald?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2004",
         "ground_truth": "1945"
     },
     {
         "question": " The name \"Mountbatten-Windsor\" applies to male-line descendants of the Queen without royal styles and titles which is a Eurpean dynasty resulting in what family?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "dynasty",
         "ground_truth": "Mountbatten family"
     },
     {
         "question": "Who is known for producing the documentary television series based on the book by science historian James Burke?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "James Burke",
         "ground_truth": "James Burke"
     },
     {
         "question": "which is larger Asante Traditional Buildings or Gulangyu?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Gulangyu",
         "ground_truth": "Gulangyu"
     },
     {
         "question": "Armageddon in Retrospect was written by the author who was best known for what 1969 satire novel?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Devil's Advocate",
         "ground_truth": "Slaughterhouse-Five"
     },
     {
         "question": "Patrick Kennedy is known for his collections of Irish  folktales from a province situated in which part of Ireland ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Ireland",
         "ground_truth": "the east of Ireland"
     },
     {
         "question": "What NIFL Premier Intermediate League team did Sean Connor play for?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "NIFL Premier Intermediate League",
         "ground_truth": "Distillery"
     },
     {
         "question": "Which character does this protagonist, who secretly loves and marries a member of the rival house, of William Shakespeare's tragedy that has a fictional character Benvolio slay?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Benvolio",
         "ground_truth": "Tybalt"
     },
     {
         "question": "What was the name of the fanzine that interviewed the Sex Pistols bassist when he was in the band \"The Flowers of Romance?\"",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Flowers of Romance",
         "ground_truth": "SKUM"
     },
     {
         "question": "What, known as AAS, is commonly used in bodybuilding?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "AAS",
         "ground_truth": "Anabolic steroids"
     },
     {
         "question": "Which American character actor who starred on the television series \"Stargate SG-1\" (1997\u20132007) and appeared in \"Episode 8\" of \"Twin Peaks\" as a guest star?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "John C. Scott",
         "ground_truth": "Don S. Davis"
     },
     {
         "question": "Candy Coburn has shared the stage with an American country music group with who playing guitar?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a saxophonist",
         "ground_truth": "Charles Kelley"
     },
     {
         "question": "What is the population according to the 2007 population census of the city in which the National Archives and Library of Ethiopia is located?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a total of ,",
         "ground_truth": "3,384,569"
     },
     {
         "question": "Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "John C. Kennedy",
         "ground_truth": "Anna Clyne"
     },
     {
         "question": "To which aircraft carrier was the VMF-213 Marine Fighting Squadron assigned to durning World War II?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "VMF-213 Marine Fighting Squadron",
         "ground_truth": "USS Essex"
     },
     {
         "question": "Can Stenocereus and Pachypodium both include tree like plants?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "What movie did Pitof direct which had an action-adventure tie-in video game based off of it in 2004?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Adventures of a Man",
         "ground_truth": "Catwoman"
     },
     {
         "question": "on 16 January 1995 \"First Knight\" was being filmed at a studio located how far from Windsor ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "7 miles"
     },
     {
         "question": "What is the name of the actress who has received a Drama Desk award and was part of the cast album for the 2007 Broadway production of the hit musical, \"Grease\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "antonio sacramento",
         "ground_truth": "Laura Ann Osnes"
     },
     {
         "question": "Marion Greene was a health policy analyst for St. Judt Medical company, which had how many principal operations worldwide?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "3",
         "ground_truth": "20"
     },
     {
         "question": "Which Genus has more species Eucryphia or Lepidozamia ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Eucryphia",
         "ground_truth": "Eucryphia"
     },
     {
         "question": "In what city was the Italian Baroque composer who composed a set of sonatas, titled Op. 5, born?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Milan",
         "ground_truth": "Venice"
     },
     {
         "question": "Meaning \"reddish water\" in Hawaiian, which location was Butch Van Artsdalen known for surfing 25-foot waves at?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Hawaii",
         "ground_truth": "Waimea Bay"
     },
     {
         "question": "What type of magazine is Eugene Habecker the chairman of?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "magazine",
         "ground_truth": "evangelical Christian periodical"
     },
     {
         "question": "Flyboys stars which actor who was nominated for an Academy Award for \"127 Hours\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john s. kennedy",
         "ground_truth": "James Franco"
     },
     {
         "question": "The English actor Kris Marshall played which character in the highly rated comedy-drama television series \"Death in Paradise\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sexy sexy",
         "ground_truth": "DI Humphrey Goodman"
     },
     {
         "question": "In what month was the relief first officer of the flight that crashed on its way to Cairo with a stop in New York Born?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "September",
         "ground_truth": "February"
     },
     {
         "question": "Which film was released first: Sacred Planet or Oz the Great and Powerful?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Sacred Planet",
         "ground_truth": "Sacred Planet"
     },
     {
         "question": "I'd Come for You is a single by the band formed in what Alberta city?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Edmonton",
         "ground_truth": "Hanna"
     },
     {
         "question": "Who is older, Ferdi Taygan or Mahesh Bhupathi?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Mahesh Bhupathi",
         "ground_truth": "Ferdi Taygan"
     },
     {
         "question": "Other than racing, what sport does the 1998 champion of the Toyota GRand Prix practice?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "racing",
         "ground_truth": "paracyclist"
     },
     {
         "question": "Where did Ian Harland study prior to studying at the oldest college at the University of Cambridge?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "University of Cambridge",
         "ground_truth": "The Dragon School in Oxford"
     },
     {
         "question": "In what 1997 American mystery crime film did Johnny Galecki start in?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Last Crusade",
         "ground_truth": "Suicide Kings"
     },
     {
         "question": "Which came to market first, \"Hey Pa! There's a Goat on the Roof\" or \"Poleconomy\"",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "\"Hey Pa! There's a Goat on the Roof\"",
         "ground_truth": "Hey Pa! There's a Goat on the Roof"
     },
     {
         "question": "What record did the Super Bowl XXXIV champions finish the regular-season with in 1999?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "0",
         "ground_truth": "a record of 13\u20133"
     },
     {
         "question": "What is the population of the town at the intersection of Interstate Highways 77 and  the longest Interstate highway within the borders of Virginia?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "77",
         "ground_truth": "8,211 at the 2010 census"
     },
     {
         "question": "What was the nickname of the hitman hired by an Italian American Criminal Organization?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a snarky snarky",
         "ground_truth": "The Crowned Prince of the Philadelphia Mob"
     },
     {
         "question": "What was the position of Jean Baptiste Androuet du Cerceau under the man who was King of the Polish-Lithuanian Commonwealth from 1573 to 1575?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "King of the Polish-Lithuanian Commonwealth",
         "ground_truth": "supervisor of the royal works"
     },
     {
         "question": "Which American music star appeared as a guest in a Will & Grace episode called \"Back Up, Dancer\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Alicia Keys",
         "ground_truth": "Janet Damita Jo Jackson"
     },
     {
         "question": "What army did the namesake of the ship launched as the M\u00fcnchen in 1930 fight in during the American Revolutionary War?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "German Army",
         "ground_truth": "Continental Army"
     },
     {
         "question": "The Church of the Guanche People was founded in the city that is on the most populated island of what larger area?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "the island of Guanche",
         "ground_truth": "Macaronesia"
     },
     {
         "question": "What officially ended the first phase of the military conflict between the British Raj and the Emirate of Afghanistan from 1878 to 1880?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The British Raj and the Emirate of Afghanistan",
         "ground_truth": "Treaty of Gandamak"
     },
     {
         "question": "The mass killing that took place at Oakland, California on April 2, 2012 was less deadly than the one that took place on October 1, 2015 in which state?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "California",
         "ground_truth": "Oregon"
     },
     {
         "question": "When did the rock band that sang \"All Join Hands\" rise to prominence? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "May 1, 1992",
         "ground_truth": "early 1970s"
     },
     {
         "question": "Where is the company that owns thanKing Horse pub restaurant chain based ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The company is located in the city of Cambridge.",
         "ground_truth": "Bury St Edmunds,"
     },
     {
         "question": "What is the uppermost age range for the sort of fiction written by Alexander Gordon Smith?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "0",
         "ground_truth": "early 20s"
     },
     {
         "question": "What is the birthday of the actress who was the Duchess in \"The Revengers Tragedy\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "-December-December-December",
         "ground_truth": "23 November 1946"
     },
     {
         "question": "Which film starring Patrick Tatten is based on a book written by Steve Lopez?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Last Man Standing",
         "ground_truth": "The Soloist"
     },
     {
         "question": "Are Skeptical Inquirer and The Progressive Populist both tabloid-style magazines?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "The 1984 film \"Marlene\" is a documentary about an actress born in what year?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1984",
         "ground_truth": "1901"
     },
     {
         "question": "Which former mill town is near Rivington Hall Barn?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Rivington Hall Barn",
         "ground_truth": "Bolton"
     },
     {
         "question": "What prolific English engineer, who died on 15 December 1857, contributed to the advent of the hot air engine by way of their open cycle devices?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john wilson",
         "ground_truth": "George Cayley"
     },
     {
         "question": "Which dog is considered a giant dog breed, the  Leonberger or the Basset Hound?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Basset Hound",
         "ground_truth": "The Leonberger is a giant dog breed."
     },
     {
         "question": "Are Staten Island Catapult and This Is Elvis both documentaries?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "What is the year of the event that occured first, Making Today a Perfect Day was produced, or Frozen was produced?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Frozen",
         "ground_truth": "2013"
     },
     {
         "question": "Which magazine is published more often, Shonen Jump or Rolling Stone?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Rolling Stone",
         "ground_truth": "Rolling Stone"
     },
     {
         "question": "Where is the Cocoa Krispies and former Superman sponsor located?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "United States",
         "ground_truth": "Battle Creek, Michigan"
     },
     {
         "question": "Who was born first Am Rong or Ava DuVernay ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Am Rong",
         "ground_truth": "Am Rong"
     },
     {
         "question": "How many days did it take the Best New Artist of 2009 to sell 2 million copies of an album in the UK and break a twenty year old record?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2",
         "ground_truth": "29"
     },
     {
         "question": "\"Ew!\" is a song by a television host born where?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "New York",
         "ground_truth": "Bay Ridge, Brooklyn"
     },
     {
         "question": "The northern English anglian Kingdom in the Humber estuary spoke what dialect of english?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "English",
         "ground_truth": "Northumbrian"
     },
     {
         "question": "What Kentucky county has a population of 60,316 and features the Lake Louisvilla neighborhood?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Lake Louisvilla",
         "ground_truth": "Oldham County"
     },
     {
         "question": "Are both Duke Energy and Affiliated Managers Group based in Massachusetts?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "Two positions were filled in The Voice of Ireland b which British-Irish girl group based in London, England?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "sexy",
         "ground_truth": "The Saturdays"
     },
     {
         "question": "Who was also an actor, Serri or John Fogerty?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "John Fogerty",
         "ground_truth": "Serri"
     },
     {
         "question": "What is the international football competition for women that Liu Ailing played in the 1991,1995, 1999 editions?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Women's national football team",
         "ground_truth": "international football competition"
     },
     {
         "question": "Rock Springs is a collection of short stories by an author born in what year?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1897",
         "ground_truth": "1944"
     },
     {
         "question": "Folie \u00e0 Deux is a studio album by the American rock band formed in which city?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Los Angeles",
         "ground_truth": "Wilmette"
     },
     {
         "question": "This work of literature _______ , known by its Greek title Oedipus Tyrannus was argued by Sigmund Freud to be one of the greatest works of world literature in his 1928 article. ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Sigmund Freud",
         "ground_truth": "Oedipus Rex"
     },
     {
         "question": "Katherine Waterston and Chrisann Brennan has what in common?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "film",
         "ground_truth": "Steve Jobs"
     },
     {
         "question": "The voice of Homer Simpson also voices what alien character in the television series \"The Simpsons\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sailor",
         "ground_truth": "Kodos"
     },
     {
         "question": "What studio album did Kanye West record with Roc-A-Fella Records and soul singer Dwele?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "My Beautiful Dark Twisted Fantasy"
     },
     {
         "question": "Were Enrique Carreras and Lionel Ngakane both filmakers during the 20th century? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "The city that contains the Yunnan Provincial Museum is also known by what nickname?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "",
         "ground_truth": "Spring city"
     },
     {
         "question": "Where is the singer of \"B Boy\" raised?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "in the middle of the night",
         "ground_truth": "Philadelphia"
     },
     {
         "question": "The Column of Saint Zanobi  is a monumental marble column located just north of religious building with the status of what?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a building",
         "ground_truth": "a minor basilica"
     },
     {
         "question": "The Ingerophrynus gollum is named after a character in a book that sold how many copies?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "69",
         "ground_truth": "150 million copies"
     },
     {
         "question": "What Danish eurodance group had a single called \"Barbie Girl\" which resulted in a lawsuit in 2002?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "",
         "ground_truth": "Aqua"
     },
     {
         "question": "Which case was decided first, Selle v. Gibb or Reynolds v. Sims?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Reynolds v. Sims",
         "ground_truth": "1964"
     },
     {
         "question": "Mamie Gummer played the role of Nancy Crozier on the TV series airing on what network?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Fox",
         "ground_truth": "CBS"
     },
     {
         "question": "What country do both Adnan Akmal and Kamran Akmal represent in cricket?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "India",
         "ground_truth": "Pakistani"
     },
     {
         "question": "Did Franki Valli sing with Hellogoodbye or The Four Seasons?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Franki Valli",
         "ground_truth": "The Four Seasons"
     },
     {
         "question": "Both Sorbaria and Goldenrod are a genus of more than 50 flowering plants?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "no"
     },
     {
         "question": "What is the capacity of the Stadium, other than Kauffman Stadium, designed by Charles Deaton ? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The stadium is a stadium with a capacity of .",
         "ground_truth": "76,416"
     },
     {
         "question": "Who is the current drummer of the band who did the song \"What Lovers Do\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a",
         "ground_truth": "Matt Flynn"
     },
     {
         "question": "What 2017 Christopher B. Landon directed American slasher film is Jessica Rothe starring in?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Dark Knight",
         "ground_truth": "Happy Death Day"
     },
     {
         "question": "Who was the president of the Sinn Fein political party during the Hume-Adams Dialogue?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a spokesman for the Sinn F\u00e9in",
         "ground_truth": "Gerard \"Gerry\" Adams"
     },
     {
         "question": "Which of these battles occurred earlier--the Battle of Peleliu or the Battle of Belleau Wood?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Battle of Belleau Wood",
         "ground_truth": "The Battle of Belleau Wood"
     },
     {
         "question": "Garden Island Naval Chapel is the oldest Chistian chapel of a naval branch of what defence force?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Royal Navy",
         "ground_truth": "Australian Defence Force"
     },
     {
         "question": "J\u00falius Satinsk\u00fd was born in a city that has a current population of what?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a population of 69",
         "ground_truth": "about 450,000"
     },
     {
         "question": "What was the name of the 19th century foundry which was located in a village directly across the Hudson River from Westpoint in Putnam County, New York?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sydney foundry",
         "ground_truth": "West Point Iron and Cannon Foundry"
     },
     {
         "question": "What fictional character created by Tom Clancy was turned into a film in 2002?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sailor",
         "ground_truth": "Jack Ryan"
     },
     {
         "question": "Wheat salad is composed typically of what red fruit?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "ripe red",
         "ground_truth": "tomato"
     },
     {
         "question": "What year did the biographical-comedy-crime film directed by Steven Soderbergh about the highest-level corporate executive whistleblower come out?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2002",
         "ground_truth": "2009"
     },
     {
         "question": "when was the album that includes the song by Dustin Lynch released to country radio on February 17, 2017?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "February 17, 2017",
         "ground_truth": "September 8, 2017"
     },
     {
         "question": "Which playwright lived a longer life, Edward Albee or J. M. Barrie?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Edward Albee",
         "ground_truth": "Edward Franklin Albee III"
     },
     {
         "question": "Are both Rutgers University and Carnegie Mellon University located in America?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "yes"
     },
     {
         "question": "Vanessa Bley is what person who organizes and often finances concerts, plays, or operas, performing a role?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Vanessa Bley",
         "ground_truth": "impresario"
     },
     {
         "question": "Were Thomas H. Ince and Joseph McGrath of the same nationality?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "Are Phlebodium and Pieris both species of ferns?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "Bartlett's Bridge was built by the engineer who worked for the county seat of which Massachusetts county?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Massachusetts",
         "ground_truth": "Worcester County"
     },
     {
         "question": "Which novelist, J. G. Farrell or Louis Aragon, wrote of the political and human consequences of his country's colonial rule?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Louis Aragon",
         "ground_truth": "Farrell"
     },
     {
         "question": "What city did the characters from Gargoyles the Movie: The Heroes Awaken wake up in after being in an enchantedly petrified state for a thousand years?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "San Francisco",
         "ground_truth": "modern-day New York City"
     },
     {
         "question": "Who were the producers of the show for which Chris McKay made his feature film directorial debut?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sailor",
         "ground_truth": "Dan Lin, Roy Lee, Phil Lord and Christopher Miller"
     },
     {
         "question": "The Waterloo Vase has been used as a garden ornament at whose residence and administrative headquarters?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a).",
         "ground_truth": "reigning monarch of the United Kingdom"
     },
     {
         "question": "Scott Sandelin grew up in a town in what Minnesota county?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Minnesota",
         "ground_truth": "Saint Louis County"
     },
     {
         "question": "The 37th Disney animated feature film Tarzan features You'll be in my heart by which artist?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john scott",
         "ground_truth": "Phil Collins"
     },
     {
         "question": "What type of media does J. T. Petty and Outlast have in common?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "documentary",
         "ground_truth": "video game"
     },
     {
         "question": "Where did the architect of the Governor's House, located in Knutsford, graduate from college?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "University of Oxford",
         "ground_truth": "Cambridge University"
     },
     {
         "question": " What is the latest album of Tim Hecker, the Canadian electronic music maker?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "Love Streams"
     },
     {
         "question": "What is the name of this Fortune 500 American company that operates a chain of retail home improvement stores that sponsored House Rules?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Walt Disney Company",
         "ground_truth": "Lowe's"
     },
     {
         "question": "For what \"first\" was Ivory Lee Brown's nephew credited for in Heisman Trophy balloting?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Heisman Trophy",
         "ground_truth": "first freshman to finish as the runner-up"
     },
     {
         "question": "Haruki Murakami said that writing \"Dance Dance Dance\" had been a healing act after his unexpected fame following the publication of a novel published in which year ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1891",
         "ground_truth": "1987"
     },
     {
         "question": "Erica Packer was the second wife of what Australian businessman?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Erica Packer",
         "ground_truth": "James Packer"
     },
     {
         "question": "What type of media does Bitter Jester and Sicko have in common?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "documentary",
         "ground_truth": "documentary"
     },
     {
         "question": "What country does Eric A. Sykes and Eccles, Greater Manchester have ion common?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "United Kingdom",
         "ground_truth": "England"
     },
     {
         "question": "What South Korean actor was a member of the pop duo TVXQ and stared in Heading to the Ground, a 2009 MBC television series?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Kim Jong-un",
         "ground_truth": "Jung Yun-ho"
     },
     {
         "question": "which is traditionally drunk before retiring to bed, Hot toddy or Kir?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Hot toddy",
         "ground_truth": "Hot toddy"
     },
     {
         "question": "What year was the film \"Mom\" released, starring the voice of Shashaa Tirupati?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2017",
         "ground_truth": "2017"
     },
     {
         "question": "For One Night Only was hosted by the man most well-known for hosting what show from 1962 until 1999?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The New York Times",
         "ground_truth": "The Late Late Show"
     },
     {
         "question": "What company did Roscoe Channing form with the owner of a leading stable of thoroughbred racehorses?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a leading stable of thoroughbred racehorses",
         "ground_truth": "Hudson Bay Mining and Smelting Company"
     },
     {
         "question": "Jens Risom introduced what type of design, characterized by minimalism and functionality?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a design that is characterized by minimalism and functionality",
         "ground_truth": "Scandinavian design"
     },
     {
         "question": "Which of the movie which has Rich Lee 3-D previsualizations was directed by Francis Lawrence?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Last Man Standing",
         "ground_truth": "Constantine"
     },
     {
         "question": "What criteria subjectively qualifies the Houston Astrodome to be called the Eighth Wonder of the World?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "comparable to the seven Wonders of the World"
     },
     {
         "question": "Who was born first, Jos\u00e9 Echegaray y Eizaguirre or P. J. O'Rourke?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Jos\u00e9 Echegaray y Eizaguirre",
         "ground_truth": "Jos\u00e9 Echegaray y Eizaguirre"
     },
     {
         "question": "Who did the Doncaster Belles play in the 1994 FA Women's Cup Final held at Glanford Park? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a team of a team of a team of a team of a team of a team of a team of a team of a team of a team of a team of a team of a",
         "ground_truth": "Knowsley United Women"
     },
     {
         "question": "What act for Innocent Records achieved Platinum sales and shares its name with a primary color in the RGB color model?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a symphony",
         "ground_truth": "Blue"
     },
     {
         "question": "What national historic district is located near a village in the town of Philipstown, New York?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Philipstown",
         "ground_truth": "Valhalla Highlands Historic District"
     },
     {
         "question": "Which American writer wrote both The Ganymede Takeover (1967) and The Man in the High Castle (1962)?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john w. scott",
         "ground_truth": "Philip K. Dick"
     },
     {
         "question": "Curt Menefee is the host of the Fox network's NFL show with co-host Michael Anthony Strahan who spent his entire 15-year career with what team?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "New York Giants",
         "ground_truth": "New York Giants"
     },
     {
         "question": "Francisco Jose Hernandez was a participant in an invasion that took place in what year?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1945",
         "ground_truth": "1961"
     },
     {
         "question": "Dead but Rising was a song by the Danish band fomed in what city in 2001?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "London",
         "ground_truth": "Copenhagen"
     },
     {
         "question": "The man, who the award in which \"Summer of the Monkeys\" won, was a spokesman for white sector of America?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a spokesman for white sector of America",
         "ground_truth": "middle America"
     },
     {
         "question": "Which lead actor/actress in War Chhod Na Yaar has also acted in Bengali and English-language films?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a",
         "ground_truth": "Soha Ali Khan"
     },
     {
         "question": "What type of movie are Wishing Stairs and Voice?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Drama",
         "ground_truth": "South Korean horror film"
     },
     {
         "question": "Which cast member of Alice Upside Down also stars in the ABC Family/Freeform drama \"Switched at Birth?\"",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "alan scott",
         "ground_truth": "Lucas Stephen Grabeel"
     },
     {
         "question": "What kind of movie directed by F. Javier gutierrez did an Italian model and actress star in?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "A romantic comedy",
         "ground_truth": "American supernatural psychological horror film"
     },
     {
         "question": "In which county is the English king Harold Godwinson buried?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "st. louis",
         "ground_truth": "Essex"
     },
     {
         "question": "Who wrote The Devils, and was an eninent English theater, opera and film director?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john scott",
         "ground_truth": "Peter Hall"
     },
     {
         "question": "Which Grand Slam singles tournament have Francesca Schiavone and Olga Morozova both been finalists in?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Grand Slam singles",
         "ground_truth": "French Open"
     },
     {
         "question": "\"Kapit\u00e4n zur See\" Ernst Lindemann was the commander of which one of two battleships built for Nazi Germany's \"Kriegsmarine\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sailor",
         "ground_truth": "Bismarck"
     },
     {
         "question": "Which football team does Lewis Young's older brother, Ashley Young, play for?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "New York Giants",
         "ground_truth": "Premier League club Manchester United and the England national team"
     },
     {
         "question": "Snowdrop is a proprietary game engine first revealed with an online-only action role-playing video game developed by who?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a company",
         "ground_truth": "Massive Entertainment"
     },
     {
         "question": "Wendy Ayche was featured in 2016 in an annual production created by Youtube and what other organization?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "YouTube",
         "ground_truth": "Portal A Interactive"
     },
     {
         "question": "John MacGregor, Baron MacGregor of Pulham Market was educated at the University of St Andrews and another university established by what monach?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a monach",
         "ground_truth": "King George IV"
     },
     {
         "question": "Which game was released first, Icehouse pieces or Kill Doctor Lucky?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Icehouse pieces",
         "ground_truth": "Icehouse pieces"
     },
     {
         "question": "American Blues included the drummer from which American rock band?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "saxophone",
         "ground_truth": "ZZ Top"
     },
     {
         "question": "The Indian actor and philanthropist, who starred in \"Mera Damad,\" entered the film industry in what year?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1991",
         "ground_truth": "1977"
     },
     {
         "question": "The Jeep Cherokee was originally sold as a variant of a Jeep model produced during what years?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1950s and 1960s",
         "ground_truth": "1963 to 1991"
     },
     {
         "question": "Where was the person born who was recognized by MIAL and is an American soprano?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "New York City",
         "ground_truth": "Laurel, Mississippi"
     },
     {
         "question": "Which magazine is older, Gallery or Dime Magazine?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Dime Magazine",
         "ground_truth": "arose on the \"Playboy\" magazine pattern in the 1970s."
     },
     {
         "question": "which writer has the highest number of skill  Langston Hughes or  Ian McEwan",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Ian McEwan",
         "ground_truth": "Langston Hughes"
     },
     {
         "question": "How large is the shopping mall where KGOT radio station has its studios ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2",
         "ground_truth": "728,000 ft\u00b2"
     },
     {
         "question": "What are the names of the members of the Detroit-based hip hop duo who has worked with Jason Gilbert?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "adam gilbert",
         "ground_truth": "Royce da 5'9\" (Bad) and Eminem (Evil)"
     },
     {
         "question": "Which has the larger population, Shanghai or Hanggin Rear Banner?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Hanggin Rear Banner",
         "ground_truth": "Shanghai"
     },
     {
         "question": "Jacques Mathou starred in Delicatessen, the 1991 French movie in the style of which celebrated American animator?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Jacques Mathou",
         "ground_truth": "Terry Gilliam"
     },
     {
         "question": "Jacques Sernas, actor in Fugitive in Trieste, was of what nationality?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Italian",
         "ground_truth": "Lithuanian-born French"
     },
     {
         "question": "The VMAQT-1 logo is a female spirit in Irish mythology who heralds the death of what?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sailor",
         "ground_truth": "a family member"
     },
     {
         "question": "The actress that played the leading role in the independent film \"A Perfect Ending\" also stars with John Bregar in a 2008 film directed by who?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "John Bregar",
         "ground_truth": "Douglas Jackson"
     },
     {
         "question": "Which band is from England, Fireflight or Dirty Pretty Things?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Fireflight",
         "ground_truth": "Dirty Pretty Things"
     },
     {
         "question": "The Bart the Fink episode of The Simpsons aired in February of 1996, and involves the host of which kiddie show?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Simpsons",
         "ground_truth": "The Itchy & Scratchy Show"
     },
     {
         "question": "Which mall, Wilton Mall or Viaport Rotterdam, has had more owners?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Viaport Rotterdam",
         "ground_truth": "Viaport Rotterdam"
     },
     {
         "question": "Which close friend of an American former basketball player was signed for to play for the Timberwolves?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "adam scott",
         "ground_truth": "signing free agent Chauncey Billups"
     },
     {
         "question": "What is the 2010 population of the city 2.1 miles southwest of Marietta Air Force Station?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2.1 miles",
         "ground_truth": "51,271"
     },
     {
         "question": "Are Buried Country and South of the Border both films turned into stage performances?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "\"A Summer in the Cage\" and \"American Hardcore\" are both what kind of film?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "documentary",
         "ground_truth": "documentary"
     },
     {
         "question": "How many novels are there in the series of novels of which Shadows in Flight is the tenth novel ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No relevant facts found.",
         "ground_truth": "fifteen"
     },
     {
         "question": "One of the coaches of Southern Methodist University also played what role at the Arizona State Sun Devils?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "coach",
         "ground_truth": "defensive coordinator"
     },
     {
         "question": "What is the height of the player who won the 2015 AFL Rising Star award?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a.",
         "ground_truth": "1.95 m"
     },
     {
         "question": "Las Vegas Festival Grounds is north of the hotel that is owned by which company?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a hotel",
         "ground_truth": "MGM Resorts International"
     },
     {
         "question": "Which musical fantasy film is older, Bedknobs and Broomsticks or The Muppet Christmas Carol?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Muppet Christmas Carol",
         "ground_truth": "Bedknobs and Broomsticks"
     },
     {
         "question": "Which river system in Chilhowie, Virginia was the starting place for most Longhunters?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "river system",
         "ground_truth": "Holston River"
     },
     {
         "question": "What party does the House of Commons representative for Congleton belong to?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Conservative Party",
         "ground_truth": "British Conservative Party"
     },
     {
         "question": "Season 2 of Rick and Morty began with the episode directed by whom?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Rick and Morty",
         "ground_truth": "Wes Archer"
     },
     {
         "question": "What team did the recipient of the 2007 Brownlow Medal play for?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Los Angeles Clippers",
         "ground_truth": "Geelong Football Club"
     },
     {
         "question": "Were both the Battle of Stones River and the Battle of the Ch'ongch'on River fought in the 19th century?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "Who has more scope of profession, Phil Rosen or  Delmer Daves?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Delmer Daves",
         "ground_truth": "Delmer Lawrence Daves"
     },
     {
         "question": "Which band has more members, Test Icicles or X Ambassadors?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Test Icicles",
         "ground_truth": "X Ambassadors"
     },
     {
         "question": "The movies The Boatniks and The Great Locomotive Chase were both made by which production company?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Boatniks",
         "ground_truth": "Walt Disney Productions"
     },
     {
         "question": "How long is the river for which Frenchmans Creek is a tributary?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a mile",
         "ground_truth": "2844 km"
     },
     {
         "question": "Where is the school that Tyler Kalinoski went to located?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a school in the city of san francisco",
         "ground_truth": "located in Olathe, Kansas"
     },
     {
         "question": "Ambrose Mendy has managed and/or advised a British professional boxer that as of July 2017 is ranked the world's seventh best super middleweight by who?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a British professional boxer",
         "ground_truth": "\"The Ring\" magazine"
     },
     {
         "question": "Rejuvelac is kind of grain water invented and promoted by a \"holistic health\" practitioner born in which year ?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1891",
         "ground_truth": "1909"
     },
     {
         "question": "What town host an annual media finance conference that has featured an Australian-born American media mogul?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Sydney",
         "ground_truth": "Sun Valley, Idaho"
     },
     {
         "question": "Ronald Reagan and George H. W. Bush both held which position in office?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Deputy",
         "ground_truth": "President of the United States"
     },
     {
         "question": "In between The Bears and I and Oceans which was released on July 31, 1974, by Buena Vista Distribution?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Oceans",
         "ground_truth": "The Bears and I"
     },
     {
         "question": "What book provided the foundation for Masters and Johnson's research team?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No relevant facts found",
         "ground_truth": "Patterns of Sexual Behavior"
     },
     {
         "question": "What star of \"Attack of the Gryphon\" was also a voice artist in Johnny Bravo?  ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a",
         "ground_truth": "Larry Richard Drake"
     },
     {
         "question": "Which fantasy film from 1971 featured the song \"The Age of Not Believing\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Age of Not Believing",
         "ground_truth": "Bedknobs and Broomsticks"
     },
     {
         "question": "Mick Carter is the landlord of a public house located at what address?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "0",
         "ground_truth": "46 Albert Square, Walford, London E20"
     },
     {
         "question": "What television thriller anthology did the winner of one Golden Globe, two tony Awards and six Primetime Emmy Awards appear on?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Golden Globe",
         "ground_truth": "Darkroom"
     },
     {
         "question": "What Cayman Islands registered Mandarin and Cantonese-language television broadcaster launched Phoenix Hong Kong Channel on 28 March 2011?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Phoenix Hong Kong Channel",
         "ground_truth": "Phoenix Television"
     },
     {
         "question": "What is the name of the film starring Rose McGowan and features the character Earl McGraw's daughter?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Girl Who Came Home",
         "ground_truth": "Planet Terror"
     },
     {
         "question": "Chimaja Appawas the younger brother of a general of the Maratha Empire in India, who served as what to the fifth Maratha Chhatrapati Shahu from 1720 until his death?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "general",
         "ground_truth": "\"Peshwa\" (Prime Minister)"
     },
     {
         "question": "What is the name of the oldest child that attended the Trump campaign-Russian meeting?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sexy",
         "ground_truth": "Donald Trump Jr."
     },
     {
         "question": "The 1st Virginia Regiment saw action at a battle that led to the departure of what Royal Governor?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "William James",
         "ground_truth": "Royal Governor Lord Dunmore"
     },
     {
         "question": "Which Argentine telenovela broadcast by Telefe from March 12 to December 19, 2012 starred Isabel Macedo as Jimena Benitez?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "",
         "ground_truth": "Graduados"
     },
     {
         "question": "What was position of the man who served Prince Andrew from 1990-2001? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Prince Andrew",
         "ground_truth": "Private Secretary and Treasurer"
     },
     {
         "question": "Are Agee and To Shoot an Elephant both documentaries about war?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "What shallow water table aquifer is located near the county seat of Keith County, Nebraska?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "aquifer",
         "ground_truth": "Ogallala Aquifer"
     },
     {
         "question": "Who was born first Mahbub ul Haq or Ibn Arabi?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Mahbub ul Haq",
         "ground_truth": "ibn\u02bfArab\u012b"
     },
     {
         "question": "What does the goddess associated with the goddess frigg  consists of what tales?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a tale of a sailor",
         "ground_truth": "various deities, beings, and heroes"
     },
     {
         "question": "What competition held in Kathmandu, Nepal did Julian Bolling compete in 1984?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Olympics in Nepal",
         "ground_truth": "1984 South Asian Games"
     },
     {
         "question": "William Pery served as Captain of the Yeomen of the Guard under the lord who served in what position from 1865 to 1868?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Captain of the Yeomen of the Guard",
         "ground_truth": "Viscount Cranborne"
     },
     {
         "question": " William Cammisano was part of which Mafia family?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "sailor",
         "ground_truth": "Kansas City crime family"
     },
     {
         "question": "1956 Night Series Cup games were played at what inner suburb of Melbourne that is 3km south of Melbourne's central business district?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Melbourne",
         "ground_truth": "Albert Park"
     },
     {
         "question": "When did the game which held three times in  in East Asia first held ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "3 times",
         "ground_truth": "in 1896"
     },
     {
         "question": "Blinding Edge Pictures produced which 2000 film starring Bruce Willis?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Devil's Advocate",
         "ground_truth": "Unbreakable"
     },
     {
         "question": "What kind of dinosaur does Raymond Ochoa voice in the Pixar film \"The Good Dinosaur\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "dinosaur",
         "ground_truth": "Apatosaurus"
     },
     {
         "question": "Which American Space Western animated series did Celebrity Home Entertainment released ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Space Western",
         "ground_truth": "BraveStarr"
     },
     {
         "question": "How are elephants connected to Gajabrishta?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "Sanskrit"
     },
     {
         "question": "Which battle occurred first, the Battle of Manila or the Battle of Guam?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Battle of Manila",
         "ground_truth": "Battle of Guam"
     },
     {
         "question": "Kam Heskin plays Paige Morgan in a 2004 film directed by who?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a sailor",
         "ground_truth": "Martha Coolidge"
     },
     {
         "question": "What 2016 film stars actor Xavier Samuel and an actress who portrayed Vasilisa Dragomir in the film \"Vampire Academy\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Phantom Academy",
         "ground_truth": "Mr. Church"
     },
     {
         "question": "What type of profession does Ithu Engal Neethi and Shoba Chandrasekhar have in common?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "film director",
         "ground_truth": "director"
     },
     {
         "question": "In what field does the firm at which Claudio Fern\u00e1ndez-Ar\u00e1oz was a currently a senior adviser offers services?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Business",
         "ground_truth": "Executive Search, Board Consulting"
     },
     {
         "question": "Eric Ambler and Carol Shields are both best Known for what profession?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "musician",
         "ground_truth": "author"
     },
     {
         "question": "Which \"Official Ireland\" group comprises about  78.3% of the population of Ireland? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Irish People's Party",
         "ground_truth": "The Catholic Church in Ireland"
     },
     {
         "question": "Where was the telefilm shot that was based on the 1977 Katherine Paterson book?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a telefilm",
         "ground_truth": "Edmonton, Alberta"
     },
     {
         "question": "Which American cable news and talk radio host was the former GOP representative",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "John McCain",
         "ground_truth": "Charles Joseph"
     },
     {
         "question": "What Division was the college footbal team that fired their head coach on November 24, 2006?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Division I",
         "ground_truth": "NCAA Division I FBS football"
     },
     {
         "question": "Which is a Macedonian weekly, H\u00e4nt Extra or Tea Moderna?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Tea Moderna",
         "ground_truth": "Tea Moderna"
     },
     {
         "question": "What is the shared country of ancestry between Art Laboe and Scout Tufankjian?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Canada",
         "ground_truth": "Armenian"
     },
     {
         "question": "Who programmed a cartridge-based development system made by a company noted for authoring Atari's BASIC?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Atari",
         "ground_truth": "Kathleen O'Brien"
     },
     {
         "question": "Which record label released Van Morrison's \"I've Been Working\" on the album \"His Band and the Street Choir\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Beatles",
         "ground_truth": "Warner Bros"
     },
     {
         "question": "Hate Them is the ninth album by a band likened to who?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "the band",
         "ground_truth": "Mot\u00f6rhead"
     },
     {
         "question": "How did Emilie du Chatelet, Voltaire's love, contribute to the basic laws of physics?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No relevant facts found.",
         "ground_truth": "commentary on Isaac Newton's book \"Principia\""
     },
     {
         "question": "Were Goo Goo Dolls and Echosmith formed in the same city?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "no",
         "ground_truth": "no"
     },
     {
         "question": "The Detroit mayoral elections of 2009 took place to fill the vacancy created by a politician who was sentenced to what?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a felony",
         "ground_truth": "four months in jail"
     },
     {
         "question": "In what year was the team that Luke Clark plays either right back or central midfielder for founded?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1897",
         "ground_truth": "1963"
     },
     {
         "question": "What genre of music was played by both Tappi T\u00edkarrass and INXS?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "acoustic",
         "ground_truth": "rock"
     },
     {
         "question": "A puzzle-platform video game developed by the Valve Corporation is part of what 2012 action-adventure game?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "The Adventures of a Man",
         "ground_truth": "Gateways"
     },
     {
         "question": "What produces the hormone that promotes sodium retention in the distal nephron?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "a hormone",
         "ground_truth": "zona glomerulosa"
     },
     {
         "question": "How many Senate seats will be contested during the midterm elections that Nancy Soderberg has filed to run for Congress in?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2",
         "ground_truth": "33"
     },
     {
         "question": "In between Berghuis v. Thompkins and Mississippi University for Women v. Hogan which one was a  case decided 5-4 by the Supreme Court of the United States?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "Berghuis v. Thompkins",
         "ground_truth": "Mississippi University for Women"
     },
     {
         "question": "Which jazz singer has a 2003 album entitled The Boy Next Door? ",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john scott",
         "ground_truth": "Stacey Kent"
     },
     {
         "question": "The actor who appeared on Charlotte's Shorts and Weeds was born in what year?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "1940",
         "ground_truth": "1966"
     },
     {
         "question": "After he was contracted by the team that is headquartered in Affalterbach, Baden-W\u00fcrttemberg, Germany, Dario Franchitti competed in what series?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "World Series",
         "ground_truth": "DTM"
     },
     {
         "question": "In which year did this division, where Cleveland Browns placed fourth in 2009, adopt its current name?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "2009",
         "ground_truth": "2002"
     },
     {
         "question": "How many restaurants comprise the quick service restaurant chain that Ron Joyce helped found?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "4,613"
     },
     {
         "question": "Anthony Avent played basketball fo a High School that is located in a city approcimately 8 mi west of where?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "San Francisco",
         "ground_truth": "lower Manhattan"
     },
     {
         "question": "What edition of tennis' US Open was the 2017 US Open when Petra Kvitova was a quarterfinalist?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "No",
         "ground_truth": "137th"
     },
     {
         "question": "Walt Zeboski photographed which 40th President during his campaign in 1980?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "john d. kennedy",
         "ground_truth": "Ronald Wilson Reagan"
     },
     {
         "question": "What type of film are both \"500 Years Later\" and \"Manson\"?",
         "contexts": [],
-        "answer": "Answer synthesized from pruned context.",
+        "answer": "documentary",
         "ground_truth": "documentary"
     }
 ]

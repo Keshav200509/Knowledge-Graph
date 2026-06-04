@@ -3,46 +3,39 @@ import json
 import pandas as pd
 import numpy as np
 import argparse
+from datasets import Dataset
 from ragas import evaluate
 from ragas.metrics import (
     faithfulness, answer_relevancy, 
     context_precision, context_recall, answer_correctness
 )
-from datasets import Dataset
 
-def bootstrap_ci(data, n_iterations=1000, alpha=0.05):
-    """Calculates 95% Bootstrap Confidence Intervals."""
-    stats = []
-    for _ in range(n_iterations):
-        resample = np.random.choice(data, size=len(data), replace=True)
-        stats.append(np.mean(resample))
-    lower = np.percentile(stats, (alpha / 2) * 100)
-    upper = np.percentile(stats, (1 - alpha / 2) * 100)
-    return lower, upper
+def bootstrap_metric(values, n_boot=1000):
+    """Calculates 95% Confidence Interval via Bootstrapping[cite: 28]."""
+    means = []
+    for _ in range(n_boot):
+        sample = np.random.choice(values, size=len(values), replace=True)
+        means.append(np.mean(sample))
+    return np.percentile(means, 2.5), np.percentile(means, 97.5)
 
-def run_evaluation(input_file):
-    # Load your raw pipeline output
-    with open(input_file, 'r') as f:
-        data = json.load(f) # Expected: List of {question, answer, contexts, ground_truth}
+def run_eval(file_path):
+    with open(file_path, 'r') as f:
+        data = json.load(f)
     
+    # RAGAS expects specific column names
     dataset = Dataset.from_list(data)
-    
-    # Execute RAGAS evaluation
     result = evaluate(
         dataset,
         metrics=[faithfulness, answer_relevancy, context_precision, context_recall, answer_correctness]
     )
     
     df = result.to_pandas()
-    
-    # Calculate Mean and CIs for each metric
     summary = {}
-    metrics_list = ['faithfulness', 'answer_relevancy', 'context_precision', 'context_recall', 'answer_correctness']
     
-    for m in metrics_list:
-        mean_val = df[m].mean()
-        lower, upper = bootstrap_ci(df[m].values)
-        summary[m] = f"{mean_val:.3f} [{lower:.3f}, {upper:.3f}]"
+    for metric in ['faithfulness', 'answer_relevancy', 'context_precision', 'context_recall', 'answer_correctness']:
+        score = df[metric].mean()
+        lower, upper = bootstrap_metric(df[metric].dropna().values)
+        summary[metric] = f"{score:.3f} [{lower:.3f}, {upper:.3f}]" # Format required for table 
         
     return summary, df
 
@@ -51,23 +44,16 @@ if __name__ == "__main__":
     parser.add_argument('--input_results', type=str, default='results/')
     args = parser.parse_args()
 
-    final_table = []
-    
-    # Run for both ablations as required
+    table_data = []
     for t in ['04', '06']:
-        input_path = os.path.join(args.input_results, f'raw_{t}.json')
-        print(f"Evaluating threshold t=0.{t}...")
-        scores, raw_df = run_evaluation(input_path)
+        path = os.path.join(args.input_results, f'raw_{t}.json')
+        print(f"📊 Evaluating Configuration t=0.{t}...")
+        scores, raw_df = run_eval(path)
         scores['System'] = f"(PRM t=0.{t})"
-        final_table.append(scores)
-        
-        # Save individual raw results
-        raw_df.to_csv(f"results/results_t{t}.csv", index=False)
+        table_data.append(scores)
+        raw_df.to_csv(f"results/metrics_t{t}.csv", index=False)
 
-    # Final Output Formatting
-    summary_df = pd.DataFrame(final_table)
+    summary_df = pd.DataFrame(table_data)
     summary_df.to_csv("results/final_results_table.csv", index=False)
-    summary_df.to_json("results/final_results_table.json", orient='records')
-    
-    print("\n--- FINAL RESULTS TABLE ---")
+    print("\n--- FINAL RESEARCH RESULTS ---")
     print(summary_df.to_string(index=False))
