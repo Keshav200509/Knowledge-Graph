@@ -1,26 +1,12 @@
-import sys
-import types
+import sys, types
+# Patch to fix Ragas/Langchain internal import bug
+m = types.ModuleType("langchain_community.chat_models.vertexai")
+m.ChatVertexAI = type("ChatVertexAI", (), {})
+sys.modules["langchain_community.chat_models.vertexai"] = m
 
-# --- CRITICAL MONKEY PATCH TO FIX RAGAS/LANGCHAIN BUG ---
-# This simulates the missing path that causes the ImportError
-mock_module = types.ModuleType("langchain_community.chat_models.vertexai")
-mock_module.ChatVertexAI = type("ChatVertexAI", (), {})
-sys.modules["langchain_community.chat_models.vertexai"] = mock_module
-
-import langchain_community.chat_models
-langchain_community.chat_models.ChatVertexAI = mock_module.ChatVertexAI
-# -------------------------------------------------------
-
-import os
-import json
-import pandas as pd
-import numpy as np
-import argparse
+import os, json, pandas as pd, numpy as np, argparse
 from ragas import evaluate
-from ragas.metrics import (
-    faithfulness, answer_relevancy, 
-    context_precision, context_recall, answer_correctness
-)
+from ragas.metrics import faithfulness, answer_relevancy, context_precision, context_recall, answer_correctness
 from datasets import Dataset
 
-# Rest of your evaluation code...
+# [Insert your existing bootstrap_ci and run_evaluation functions here]

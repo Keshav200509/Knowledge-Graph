@@ -9,17 +9,15 @@ class MultiHopRetriever:
         self.paragraphs = []
 
     def build_index(self, paragraphs):
-        """Requirement 1: Build FAISS index for the 10 paragraph pool."""
+        """Encodes and indexes the 10 paragraphs from the distractor set."""
         self.paragraphs = paragraphs
         embeddings = self.model.encode(paragraphs)
-        dimension = embeddings.shape[1]
-        self.index = faiss.IndexFlatL2(dimension)
+        self.index = faiss.IndexFlatL2(embeddings.shape[1])
         self.index.add(np.array(embeddings).astype('float32'))
 
     def retrieve(self, query, k=3):
-        """Requirement 1: Return top-K relevant paragraphs using vector search."""
+        """Returns the top K most similar paragraphs for the query."""
         if self.index is None: return []
         query_vec = self.model.encode([query])
-        # Search the index for the closest k paragraphs
-        distances, indices = self.index.search(np.array(query_vec).astype('float32'), k)
+        _, indices = self.index.search(np.array(query_vec).astype('float32'), k)
         return [self.paragraphs[i] for i in indices[0]]
