@@ -1,0 +1,5 @@
+data/
+results/raw/
+__pycache__/
+.env
+*.ipynb_checkpoints/

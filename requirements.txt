@@ -1,0 +1,7 @@
+ragas==0.1.7
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+datasets==2.19.0
+transformers==4.41.0
+torch==2.3.0
+pandas==2.2.2
